@@ -1,6 +1,6 @@
 # O VerdadeiroJoao
 
-**`Mechatronics Engineer`**
+**`Mechatronics Engineer(Robotics Enthusiast / Machine Learning Explorer / Problem Solver)`**
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9uZnJueDR5eTl5bWF2Ymh0dmtlNTl3OHYyNXYxMm9tMmhlb245aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif" width="480" height="auto"/>

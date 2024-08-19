@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpdGNnODBpNXMwbzJsdnNxeWoyajQ0eWY3ZW4wbnBtamkyOHIzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpdGNnODBpNXMwbzJsdnNxeWoyajQ0eWY3ZW4wbnBtamkyOHIzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="100"/>
+</p>
+
 
 <!--
 **OVerdadeiroJoao/OVerdadeiroJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

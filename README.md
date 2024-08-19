@@ -2,7 +2,9 @@
 
 **`Mechatronics Engineer(Robotics Enthusiast / Machine Learning Explorer / Problem Solver)`**
 
-![giphy](https://github.com/user-attachments/assets/5b77cbd4-c426-4e10-8256-caa8fa2735c1)
+<p align="center">
+  <img src="caminho/para/o/arquivo.gif" alt="Descrição do GIF">
+</p>
 
 I am a Mechatronics Engineering student with a deep interest in Robotics and Machine Learning. I am immersed in the world of engineering, exploring the intersection between mechanical systems and technology. Every project I undertake is a journey, from the initial planning and research to implementation and solving complex challenges with innovative solutions. My passion for Robotics drives me to build systems that seamlessly integrate hardware and software, while my interest in Machine Learning pushes me to explore new frontiers of artificial intelligence and continuously learn from data and algorithms.
 

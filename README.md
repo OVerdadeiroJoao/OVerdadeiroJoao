@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="<iframe src="https://giphy.com/embed/4OV1bLOIWwIXRxpXlN" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-zoro-swords-4OV1bLOIWwIXRxpXlN">via GIPHY</a></p>" width="100"/>
+</div>
+
 <!--
 **OVerdadeiroJoao/OVerdadeiroJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

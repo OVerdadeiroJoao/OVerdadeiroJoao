@@ -15,3 +15,29 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+---
+
+### :woman_technologist: Sobre Mim :
+
+Eu sou um Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> da Índia.
+
+- :telescope: Trabalhando como Engenheiro de Software e contribuindo para frontend e backend.
+- :seedling: Explorando Redação Técnica.
+- :zap: No meu tempo livre, resolvo problemas no GeeksforGeeks e leio artigos técnicos.
+- :mailbox: Como me encontrar: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](sua-url-linkedin)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <!-- Adicione outras ferramentas e linguagens conforme necessário -->
+</div>
+
+---
+
+### :fire: Minhas Estatísticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seu-nome-de-usuario&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

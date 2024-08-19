@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9uZnJueDR5eTl5bWF2Ymh0dmtlNTl3OHYyNXYxMm9tMmhlb245aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif" width="480" height="auto"/>
@@ -6,26 +6,27 @@
 
 <div id="badges" align="center">
   <a href="sua-url-linkedin">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin Badge"/>
-  </a>
-  <a href="sua-url-youtube">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
   <a href="sua-url-twitter">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub Badge" width="40" height="40"/>
   </a>
 </div>
 
+
 ---
 
-### :woman_technologist: Sobre Mim :
+---
 
-Eu sou um Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> da Índia.
+### About Me :
 
-- :telescope: Trabalhando como Engenheiro de Software e contribuindo para frontend e backend.
-- :seedling: Explorando Redação Técnica.
-- :zap: No meu tempo livre, resolvo problemas no GeeksforGeeks e leio artigos técnicos.
-- :mailbox: Como me encontrar: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](sua-url-linkedin)
+I am a Mechatronics Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m currently studying Mechatronics Engineering and learning both hardware and software aspects of technology.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-your-name-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

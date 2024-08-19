@@ -30,4 +30,4 @@ I am a Mechatronics Engineering student with a deep interest in Robotics and Mac
 
 ### 📊 My Stats :
 
-[![GitHub Stats](http://github-readme-stats.vercel.app/api?username=OVerdadeiroJoao&show_icons=true&theme=radical)
+![GitHub Stats](http://github-readme-stats.vercel.app/api?username=OVerdadeiroJoao&show_icons=true&theme=gruvbox)
